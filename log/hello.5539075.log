@@ -1,0 +1,13 @@
+013 (5539075.000.000) 01/18 16:30:35 Job was released.
+	via condor_release (by user apfleger)
+...
+040 (5539075.000.000) 01/18 16:34:32 Started transferring input files
+	Transferring to host: <188.184.163.84:9618?addrs=188.184.163.84-9618+[2001-1458-301-4d--100-4e]-9618&alias=b9s12p7686.cern.ch&noUDP&sock=slot1_15_693783_a2ce_2824>
+...
+040 (5539075.000.000) 01/18 16:34:32 Finished transferring input files
+...
+009 (5539075.000.000) 01/18 16:34:32 Job was aborted.
+	Job removed by SYSTEM_PERIODIC_REMOVE due to wall time exceeded allowed max.
+
+	Job terminated by itself at 2024-01-18T15:29:14Z (using method 0: OF_ITS_OWN_ACCORD).
+...
