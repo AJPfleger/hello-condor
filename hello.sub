@@ -4,4 +4,5 @@ output = output/hello.$(ClusterId).$(ProcId).out
 error = error/hello.$(ClusterId).$(ProcId).err
 log = log/hello.$(ClusterId).log
 +MaxRuntime = 10
+transfer_input_files = hello.py
 queue
